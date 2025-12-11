@@ -1,3 +1,5 @@
+![cover](https://raw.githubusercontent.com/Yifan-99999/whisper-ar/main/cover.png)
+
 # Whisper Arabic Speech Transcription Tool
 
 A lightweight tool for automatically transcribing Arabic audio using OpenAI Whisper.
