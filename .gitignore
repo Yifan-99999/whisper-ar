@@ -1,0 +1,13 @@
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+
+output.txt
+
+__pycache__/
+*.pyc
+
+*.pt
+*.pth
